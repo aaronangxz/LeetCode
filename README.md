@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td style="text-align: left">Easy</td>
-      <td style="text-align: left">3</td>
+      <td style="text-align: left">10</td>
     </tr>
     <tr>
       <td style="text-align: left">Medium</td>
