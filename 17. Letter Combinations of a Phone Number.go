@@ -1,4 +1,4 @@
-package main
+package leetcode
 
 func concat(input1 []string, input2 []string) []string {
 	var out []string
