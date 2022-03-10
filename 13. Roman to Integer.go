@@ -1,4 +1,4 @@
-package leetcode
+package romanToInt
 
 func romanToInt(s string) int {
 	var out int
