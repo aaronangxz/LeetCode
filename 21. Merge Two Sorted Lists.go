@@ -1,4 +1,4 @@
-package mergeTwoLists
+package LeetCode
 
 //Definition for singly-linked list.
 type ListNode struct {

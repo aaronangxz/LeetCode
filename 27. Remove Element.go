@@ -1,4 +1,4 @@
-package leetcode
+package LeetCode
 
 func removeElement(nums []int, val int) int {
 	for i := 0; i < len(nums); i++ {
